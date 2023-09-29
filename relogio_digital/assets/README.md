@@ -18,7 +18,7 @@ Relógio Digital
 <br>
 
 <p align="center">
-  <img alt="" src="/Relógio Digital/assets/preview.PNG" width="100%">
+  <img alt="" src="/relogio-digital/assets/preview.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
